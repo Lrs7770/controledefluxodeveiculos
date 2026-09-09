@@ -1,0 +1,7 @@
+{
+  "name": "LogiDoca - Gestão e Controle Operacional de Docas",
+  "description": "Sistema full-stack para gestão de 8 docas logísticas, controle de fluxo e congestionamento de veículos, persistência de dados e relatórios analíticos de desempenho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
